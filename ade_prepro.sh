@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 
-python ade_prepro.py
+python ade_prepro.py \
   --data_dir "data/ADR" \
   --output_dir "data/canonical_data" \
 
